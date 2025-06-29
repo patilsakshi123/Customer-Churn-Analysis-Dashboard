@@ -63,18 +63,18 @@ The Overview Dashboard provides a clear, high-level view of customer behavior an
   *Insight:* Churn rates progress clearly by Internet Type: **Fiber Optic → Cable → DSL → None.**  
   *Insight:* Overall, churn spans from **7.84%** to **41.10%** across these four internet service categories, highlighting the stark contrast in customer retention.
 
-- **Clustered Bar Chart — Churn Rate by Payment Method*  
+- **Clustered Bar Chart — Churn Rate by Payment Method** 
   *Insight:* **Mailed Check* has the **highest churn rate** at **37.82%*, which is 155.63% higher than Credit Card, the lowest at 14.80%.  
   *Insight:* **Bank Withdrawal** follows closely with a churn rate of **34.43%**, highlighting that traditional payment methods see higher churn compared to digital options.
 
-- **Clustered Bar Chart — Churn Rate by Contract Tyoe*  
+- **Clustered Bar Chart — Churn Rate by Contract Type** 
   *Insight:* **Month-to-Month contracts** have the highest churn rate at **46.53%**, followed by One Year at **11.04%**, and Two Year contracts at just **2.73%**.
 
- - **Clustered Bar Chart — Churn Rate by State*  
-  *Insight:* **Jammu & Kashmir** reports the highest churn rate at **57.19%**, which is **158.89%** higher than Gujarat — the lowest at **22.09%**.  
-  *Insight:* Across all 22 states, churn rates vary significantly, ranging from **22.09% to 57.19%**, highlighting strong regional differences in customer retention.
+- **Clustered Bar Chart — Churn Rate by State**  
+ *Insight:* **Jammu & Kashmir** reports the highest churn rate at **57.19%**, which is **158.89%** higher than Gujarat — the lowest at **22.09%**.  
+ *Insight:* Across all 22 states, churn rates vary significantly, ranging from **22.09% to 57.19%**, highlighting strong regional differences in customer retention.
 
-- **Clustered Bar Chart — Churn Rate by Churn Category*  
+- **Clustered Bar Chart — Churn Rate by Churn Category** 
  *Insight:* The **Competitor** category recorded the highest churn at **761 customers (43.94%)**, which is **337.36%** higher than the **Other** category, the lowest at **174**.  
  *Insight:*Total churn across all five categories ranges from **174 to 761**, underlining significant variation in why customers leave.
 
