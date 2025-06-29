@@ -43,7 +43,7 @@ The Overview Dashboard provides a clear, high-level view of customer behavior an
 - Churn Rate
 
 **Charts & Tables:**
-- **Pie Chart:** Total Churn by Gender
+- **Pie Chart:** Total Churn by Gender 
 - **Combo Chart (Bar & Line):** Total Customers and Churn Rate by Age Group
 - **Combo Chart (Bar & Line):** Total Customers and Churn Rate by Tenure Group
 - **Clustered Bar Chart:** Churn Rate by Internet Type
