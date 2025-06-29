@@ -63,18 +63,18 @@ The Overview Dashboard provides a clear, high-level view of customer behavior an
   *Insight:* Churn rates progress clearly by Internet Type: **Fiber Optic → Cable → DSL → None.**  
   *Insight:* Overall, churn spans from **7.84%** to **41.10%** across these four internet service categories, highlighting the stark contrast in customer retention.
 
-- **Clustered Bar Chart:** Churn Rate by Payment Method
+- **Clustered Bar Chart: Churn Rate by Payment Method**
   *Insight:* **Mailed Check* has the **highest churn rate** at **37.82%*, which is 155.63% higher than Credit Card, the lowest at 14.80%.  
   *Insight:* **Bank Withdrawal** follows closely with a churn rate of **34.43%**, highlighting that traditional payment methods see higher churn compared to digital options.
   
-- **Clustered Bar Chart:** Churn Rate by Contract Type
+- **Clustered Bar Chart: Churn Rate by Contract Type**
    *Insight:* **Month-to-Month contracts** have the highest churn rate at **46.53%**, followed by One Year at **11.04%**, and Two Year contracts at just **2.73%**.  
 
-- **Clustered Bar Chart:** Churn Rate by State  
+- **Clustered Bar Chart: Churn Rate by State**
    *Insight:* **Jammu & Kashmir** reports the highest churn rate at **57.19%**, which is **158.89%** higher than Gujarat — the lowest at **22.09%**.  
    *Insight:* Across all 22 states, churn rates vary significantly, ranging from **22.09% to 57.19%**, highlighting strong regional differences in customer retention.
 
-- **Clustered Bar Chart:** Total Churn by Churn Category
+- **Clustered Bar Chart: Total Churn by Churn Category**
   *Insight:* The **Competitor** category recorded the highest churn at **761 customers (43.94%)**, which is **337.36%** higher than the **Other** category, the lowest at **174**.  
   *Insight:* Total churn across all five categories ranges from **174 to 761**, underlining significant variation in why customers leave.
 
@@ -98,17 +98,17 @@ The Prediction Dashboard takes things a step further by using machine learning t
   *Insight:* The **>24 Months** group has the highest customer count at **108**, which is **89.47% higher** than the **12–18 Months** group — the lowest, with **57 customers**.  
   *Insight:* This segment represents **28.35%** of all customers, with counts across all five tenure groups ranging from **57 to 108**.
   
-- **Clustered Bar Chart: Churn Count by Martial Status **  
+- **Clustered Bar Chart: Churn Count by Martial Status**  
   *Insight:* Unmarried customers had the highest count at **194 (50.92%)**, slightly more than married customers at **187**, showing a near-even split with a marginal lean toward unmarried users.
 
-- **Clustered Bar Chart: Churn Count by Contract **  
+- **Clustered Bar Chart: Churn Count by Contract**  
   *Insight:* **Month-to-Month** plans had the highest customer count at **356 (93.44%)**, vastly outnumbering **One Year** with **18** and **Two Year** with just **7** customers.  
 
- - **Clustered Column Chart: Churn Count by Payment Method **  
+ - **Clustered Column Chart: Churn Count by Payment Method**  
   *Insight:*  **Credit Card** had the highest number of customers at **195**, accounting for **51.18%** of the total — a **441.67%** increase over **Mailed Check**, which had the lowest count at **36**.  
   *Insight:*  **Bank Withdrawal** followed in second place with **150** customers, showing a strong preference for digital payment methods.
    
-- **Clustered Bar Chart: Churn Count by State **  
+- **Clustered Bar Chart: Churn Count by State**  
   *Insight:* **Uttar Pradesh** had the highest customer count at **45 (11.81%)**, followed by **Maharashtra** and **Tamil Nadu**.  
   *Insight:* Across all 22 states, customer count ranged widely — from as low as **2** to as high as **45**, revealing significant geographic variation in customer base concentration.
 
