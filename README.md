@@ -45,10 +45,10 @@ The Overview Dashboard provides a clear, high-level view of customer behavior an
 **Charts & Tables:**
 
 - **Pie Chart:** Total Churn by Gender
-   *Insight:* Female customers account for 64.1% of tota churn, indicating a notable gender-based churn disparity
+*Insight:* Female customers account for 64.1% of tota churn, indicating a notable gender-based churn disparity
   
 - **Combo Chart (Bar & Line):** Total Customers and Churn Rate by Age Group
-  *Insight:*  The 35–50 age group is the largest segment (1,815) with moderate churn (~28%), while the 20–30 group churns more despite fewer customers. The **65+ age group** have a high churn risk at nearly **40%**, and even the **<20 age group**, though small (117 customers), shows a concerning churn rate of **23%**.
+*Insight:*  The 35–50 age group is the largest segment (1,815) with moderate churn (~28%), while the 20–30 group churns more despite fewer customers. The **65+ age group** have a high churn risk at nearly **40%**, and even the **<20 age group**, though small (117 customers), shows a concerning churn rate of **23%**.
 
 - **Combo Chart (Bar & Line):** Total Customers and Churn Rate by Tenure Group
 - **Clustered Bar Chart:** Churn Rate by Internet Type
