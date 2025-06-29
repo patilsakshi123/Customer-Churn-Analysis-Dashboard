@@ -67,7 +67,7 @@ The Overview Dashboard provides a clear, high-level view of customer behavior an
   *Insight:* **Mailed Check* has the **highest churn rate** at **37.82%*, which is 155.63% higher than Credit Card, the lowest at 14.80%.  
   *Insight:* **Bank Withdrawal** follows closely with a churn rate of **34.43%**, highlighting that traditional payment methods see higher churn compared to digital options.
 
-  - **Clustered Bar Chart — Churn Rate by Contract Tyoe*  
+- **Clustered Bar Chart — Churn Rate by Contract Tyoe*  
   *Insight:* **Month-to-Month contracts** have the highest churn rate at **46.53%**, followed by One Year at **11.04%**, and Two Year contracts at just **2.73%**.
 
  - **Clustered Bar Chart — Churn Rate by State*  
@@ -111,6 +111,10 @@ The Prediction Dashboard takes things a step further by using machine learning t
 - **Clustered Bar Chart: Churn Count by State**  
   *Insight:* **Uttar Pradesh** had the highest customer count at **45 (11.81%)**, followed by **Maharashtra** and **Tamil Nadu**.  
   *Insight:* Across all 22 states, customer count ranged widely — from as low as **2** to as high as **45**, revealing significant geographic variation in customer base concentration.
+
+- Customer At-Risk Table:** 
+  *Insight:* Lists high-risk customers with monthly charges, revenue, refunds, and referrals to prioritize outreach.
+
 
 
 ![Dashboard Predictions](https://github.com/user-attachments/assets/cacbc646-04a2-4ca3-bcce-3a9b7877a4a7)
