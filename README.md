@@ -115,9 +115,9 @@ The Prediction Dashboard takes things a step further by using machine learning t
 - **Customer At-Risk Table:** 
   *Insight:* Lists high-risk customers with monthly charges, revenue, refunds, and referrals to prioritize outreach.
 
-- **KPIs (Cards):**
-- Total Predicted Churners  
-- Predicted Churners by Gender
+**KPIs (Cards):**
+- Total Predicted Churner 
+- Predicted Churner By Gender
 
 ![Dashboard Predictions](https://github.com/user-attachments/assets/cacbc646-04a2-4ca3-bcce-3a9b7877a4a7)
 
