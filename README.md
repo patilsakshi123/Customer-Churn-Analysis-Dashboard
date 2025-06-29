@@ -112,10 +112,12 @@ The Prediction Dashboard takes things a step further by using machine learning t
   *Insight:* **Uttar Pradesh** had the highest customer count at **45 (11.81%)**, followed by **Maharashtra** and **Tamil Nadu**.  
   *Insight:* Across all 22 states, customer count ranged widely — from as low as **2** to as high as **45**, revealing significant geographic variation in customer base concentration.
 
-- Customer At-Risk Table:** 
+- **Customer At-Risk Table:** 
   *Insight:* Lists high-risk customers with monthly charges, revenue, refunds, and referrals to prioritize outreach.
 
-
+- **KPIs (Cards):**
+- Total Predicted Churners  
+- Predicted Churners by Gender
 
 ![Dashboard Predictions](https://github.com/user-attachments/assets/cacbc646-04a2-4ca3-bcce-3a9b7877a4a7)
 
