@@ -32,6 +32,26 @@ Here’s a look at the three dashboards I built in Power BI. Each one is designe
 
 The Overview Dashboard provides a clear, high-level view of customer behavior and business performance. It highlights key metrics such as churn rate, customer segments, service adoption, and usage patterns—helping stakeholders quickly grasp the overall state of the business.
 
+**Slicers:**
+- Marital Status
+- Monthly Charges Range
+
+**KPIs (Cards):**
+- Total Customers
+- Total Churn
+- New Joiners
+- Churn Rate
+
+**Charts & Tables:**
+- **Pie Chart:** Total Churn by Gender
+- **Combo Chart (Bar & Line):** Total Customers and Churn Rate by Age Group
+- **Combo Chart (Bar & Line):** Total Customers and Churn Rate by Tenure Group
+- **Clustered Bar Chart:** Churn Rate by Internet Type
+- **Clustered Bar Chart:** Churn Rate by Payment Method
+- **Clustered Bar Chart:** Churn Rate by Contract Type
+- **Clustered Bar Chart:** Churn Rate by State
+- **Clustered Bar Chart:** Total Churn by Churn Category
+- **Table:** Churn by Services — includes Unlimited Data, Streaming TV, Streaming Music, Streaming Movies, Premium Support, Phone Service, Paperless Billing, Online Security, Online Backup, Multiple Lines, Internet Service, Device Protection Plan
 
 ![Dashboard Overview](https://github.com/user-attachments/assets/f37516ec-4fa5-4331-a2f0-e17b8e498b1d)
 
