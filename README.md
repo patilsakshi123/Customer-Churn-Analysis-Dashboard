@@ -1,5 +1,5 @@
 
-📊 CUSTOMER CHURN ANALYSIS DASHBOARD PROJECT
+#📊 CUSTOMER CHURN ANALYSIS DASHBOARD PROJECT
 
 This project showcases a complete end-to-end solution for analyzing and predicting customer churn using real-world data. 
 The dashboard was built using SQL Server, Power BI, and Python (Random Forest) for machine learning.
