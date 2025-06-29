@@ -59,7 +59,11 @@ The Overview Dashboard provides a clear, high-level view of customer behavior an
   *Insight:* The 18–24 month group (980 Customers) churns at **27.24%**, nearly identical to long-tenure churn, suggesting mid-term engagement drops too.  
   *Insight:* Early-tenure segments (0–12 months) total over 2,400 customers with **26–27%** churn, pointing to gaps in onboarding and early-stage retention.
   
-- **Clustered Bar Chart:** Churn Rate by Internet Type
+- **Clustered Bar Chart — Churn Rate by Internet Type**  
+  *Insight:* **Fiber Optic** customers have the highest churn rate at **41.10%**, which is **424.12%** higher than those with **no internet service (7.84%)**.  
+  *Insight:* Churn rates progress clearly by Internet Type: **Fiber Optic → Cable → DSL → None.**  
+  *Insight:* Overall, churn spans from **7.84%** to **41.10%** across these four internet service categories, highlighting the stark contrast in customer retention.
+
 - **Clustered Bar Chart:** Churn Rate by Payment Method
 - **Clustered Bar Chart:** Churn Rate by Contract Type
 - **Clustered Bar Chart:** Churn Rate by State
