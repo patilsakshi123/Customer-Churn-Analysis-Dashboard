@@ -47,17 +47,17 @@ The Overview Dashboard provides a clear, high-level view of customer behavior an
 - **Pie Chart:** Total Churn by Gender  
   *Insight:* Female customers account for 64.1% of total churn, indicating a notable gender-based churn disparity.
 
-- **Combo Chart (Bar & Line):** Total Customers and Churn Rate by Age Group  
+- **Combo Chart (Lline and Stacked Column):** Total Customers and Churn Rate by Age Group  
   *Insight:* The 35–50 age group is the largest segment (1,815) with moderate churn (~28%).  
   *Insight:* The 20–30 group churns more despite fewer customers.  
   *Insight:* The 65+ age group has the highest churn risk at nearly 40%.  
   *Insight:* Even the <20 age group, though small (117 customers), shows a concerning churn rate of 23%.
 
 
-- **Combo Chart (Bar & Line):** Total Customers and Churn Rate by Tenure Group
-  *Insight:* The >24 month group is the largest (~2.1K) yet shows a 27.5% churn rate, proving loyalty isn’t guaranteed long-term.  
-  *Insight:* The 18–24 month group (~1K) churns at 27.24%, nearly identical to long-tenure churn, suggesting mid-term engagement drops too.  
-  *Insight:* Early-tenure segments (0–12 months) total over 2,400 customers with ~26–27% churn, pointing to gaps in onboarding and early-stage retention.
+- **Combo Chart (Line and Stacked Column): Total Customers and Churn Rate by Tenure Group**  
+  *Insight:* The 24+ month group is the *largest* segment (2087 Customers) yet shows a **27.5%** churn rate, proving loyalty isn’t guaranteed long-term.  
+  *Insight:* The 18–24 month group (980 Customers) churns at **27.24%**, nearly identical to long-tenure churn, suggesting mid-term engagement drops too.  
+  *Insight:* Early-tenure segments (0–12 months) total over 2,400 customers with 26–27% churn, pointing to gaps in onboarding and early-stage retention.
   
 - **Clustered Bar Chart:** Churn Rate by Internet Type
 - **Clustered Bar Chart:** Churn Rate by Payment Method
