@@ -128,3 +128,19 @@ The Prediction Dashboard takes things a step further by using machine learning t
 The Summary Dashboard focuses on making insights easy to understand. By using Power BI’s Smart Narrative feature, it automatically generates clear, written explanations of key metrics like total customers, churn figures, and revenue trends. This helps decision-makers quickly grasp what's happening in the business without diving deep into the data.
 
 ![Dashboard Summary](https://github.com/user-attachments/assets/5a8bf1dc-07df-4cdb-acb4-5a457461e0fb)
+
+---
+
+## 👤 Author
+
+**Developed by:** SAKSHI PATIL  
+📧 sakshipandit0909@gmail.com
+
+---
+
+## ⭐ Star This File!
+
+If you found this helpful, please **star ⭐ this File** and share with your network.  
+Let’s make public health data easy for everyone!
+
+---
