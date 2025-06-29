@@ -55,6 +55,10 @@ The Overview Dashboard provides a clear, high-level view of customer behavior an
 
 
 - **Combo Chart (Bar & Line):** Total Customers and Churn Rate by Tenure Group
+  *Insight:* The >24 month group is the largest (~2.1K) yet shows a 27.5% churn rate, proving loyalty isn’t guaranteed long-term.  
+  *Insight:* The 18–24 month group (~1K) churns at 27.24%, nearly identical to long-tenure churn, suggesting mid-term engagement drops too.  
+  *Insight:* Early-tenure segments (0–12 months) total over 2,400 customers with ~26–27% churn, pointing to gaps in onboarding and early-stage retention.
+  
 - **Clustered Bar Chart:** Churn Rate by Internet Type
 - **Clustered Bar Chart:** Churn Rate by Payment Method
 - **Clustered Bar Chart:** Churn Rate by Contract Type
