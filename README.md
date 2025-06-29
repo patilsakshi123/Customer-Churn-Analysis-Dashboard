@@ -46,13 +46,12 @@ The Overview Dashboard provides a clear, high-level view of customer behavior an
 
 - **Pie Chart:** Total Churn by Gender  
   *Insight:* Female customers account for 64.1% of total churn, indicating a notable gender-based churn disparity.
-
- **Combo Chart (Line and Stacked Column): Total Customers and Churn Rate by Age Group**  
+  
+- **Combo Chart (Line and Stacked Column): Total Customers and Churn Rate by Age Group**  
   *Insight:* The **35–50 age group** is the largest segment (1,815 Customers) with moderate churn (**28%**).  
   *Insight:* The 20–30 group churns more despite fewer customers.  
   *Insight:* The **65+ age group** has the highest churn risk at nearly **40%**.  
   *Insight:* Even the **<20 age group**, though small (117 customers), shows a concerning churn rate of **23%**.
-
 
 - **Combo Chart (Line and Stacked Column): Total Customers and Churn Rate by Tenure Group**  
   *Insight:* The 24+ month group is the *largest* segment (2087 Customers) yet shows a **27.5%** churn rate, proving loyalty isn’t guaranteed long-term.  
@@ -91,9 +90,28 @@ The Prediction Dashboard takes things a step further by using machine learning t
 
 **Visual Used and Key Takeways**
 
- **Combo Chart (Line and Stacked Column): Total Customers and Churn Rate by Tenure Group**  
- *Insight:* The **35–50** age group had the highest number of customers at **128**, accounting for **33.60%** of the total — a **966.67%** increase compared to the **<20** group, which had the lowest count at just **12**.  
+- **Clustered Column Chart: Churn Count by Age Group**  
+  *Insight:* The **35–50** age group had the highest number of customers at **128**, accounting for **33.60%** of the total — a **966.67%** increase compared to the **<20** group, which had the lowest count at just **12**.  
   *Insight:* Customer count across all five age groups ranged from **12 to 128**, showing notable concentration in middle-aged segments.
+  
+- **Clustered Column Chart: Churn Count by Tenure Group**  
+  *Insight:* The **>24 Months** group has the highest customer count at **108**, which is **89.47% higher** than the **12–18 Months** group — the lowest, with **57 customers**.  
+  *Insight:* This segment represents **28.35%** of all customers, with counts across all five tenure groups ranging from **57 to 108**.
+  
+- **Clustered Bar Chart: Churn Count by Martial Status **  
+  *Insight:* Unmarried customers had the highest count at **194 (50.92%)**, slightly more than married customers at **187**, showing a near-even split with a marginal lean toward unmarried users.
+
+- **Clustered Bar Chart: Churn Count by Contract **  
+  *Insight:* **Month-to-Month** plans had the highest customer count at **356 (93.44%)**, vastly outnumbering **One Year** with **18** and **Two Year** with just **7** customers.  
+
+ - **Clustered Column Chart: Churn Count by Payment Method **  
+  *Insight:*  **Credit Card** had the highest number of customers at **195**, accounting for **51.18%** of the total — a **441.67%** increase over **Mailed Check**, which had the lowest count at **36**.  
+  *Insight:*  **Bank Withdrawal** followed in second place with **150** customers, showing a strong preference for digital payment methods.
+   
+- **Clustered Bar Chart: Churn Count by State **  
+  *Insight:* **Uttar Pradesh** had the highest customer count at **45 (11.81%)**, followed by **Maharashtra** and **Tamil Nadu**.  
+  *Insight:* Across all 22 states, customer count ranged widely — from as low as **2** to as high as **45**, revealing significant geographic variation in customer base concentration.
+
 
 ![Dashboard Predictions](https://github.com/user-attachments/assets/cacbc646-04a2-4ca3-bcce-3a9b7877a4a7)
 
