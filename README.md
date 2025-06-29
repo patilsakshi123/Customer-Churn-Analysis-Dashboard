@@ -42,7 +42,7 @@ The Overview Dashboard provides a clear, high-level view of customer behavior an
 - New Joiners
 - Churn Rate
 
-**Visual Used and Key Takeways**
+**Visual Used and Key Takeways:**
 
 - **Pie Chart:** Total Churn by Gender  
   *Insight:* Female customers account for 64.1% of total churn, indicating a notable gender-based churn disparity.
@@ -88,7 +88,7 @@ The Overview Dashboard provides a clear, high-level view of customer behavior an
 
 The Prediction Dashboard takes things a step further by using machine learning to identify customers who are most likely to churn. Powered by a Random Forest regression model, it displays each customer's churn risk alongside key details like their profile and service usage—enabling the business to take proactive steps before it's too late.
 
-**Visual Used and Key Takeways**
+**Visual Used and Key Takeways:**
 
 - **Clustered Column Chart: Churn Count by Age Group**  
   *Insight:* The **35–50** age group had the highest number of customers at **128**, accounting for **33.60%** of the total — a **966.67%** increase compared to the **<20** group, which had the lowest count at just **12**.  
@@ -115,7 +115,7 @@ The Prediction Dashboard takes things a step further by using machine learning t
 - **Customer At-Risk Table:** 
   *Insight:* Lists high-risk customers with monthly charges, revenue, refunds, and referrals to prioritize outreach.
 
-**KPIs (Cards):**
+ **KPIs (Cards):**
 - Total Predicted Churner 
 - Predicted Churner By Gender
 
