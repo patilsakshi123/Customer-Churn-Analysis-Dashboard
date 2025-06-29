@@ -42,12 +42,12 @@ The Overview Dashboard provides a clear, high-level view of customer behavior an
 - New Joiners
 - Churn Rate
 
-**Charts & Tables:**
+**Visual Used and Key Takeways**
 
 - **Pie Chart:** Total Churn by Gender  
   *Insight:* Female customers account for 64.1% of total churn, indicating a notable gender-based churn disparity.
 
-- **Combo Chart (Lline and Stacked Column):** Total Customers and Churn Rate by Age Group  
+ **Combo Chart (Line and Stacked Column): Total Customers and Churn Rate by Age Group**  
   *Insight:* The **35–50 age group** is the largest segment (1,815 Customers) with moderate churn (**28%**).  
   *Insight:* The 20–30 group churns more despite fewer customers.  
   *Insight:* The **65+ age group** has the highest churn risk at nearly **40%**.  
@@ -89,6 +89,11 @@ The Overview Dashboard provides a clear, high-level view of customer behavior an
 
 The Prediction Dashboard takes things a step further by using machine learning to identify customers who are most likely to churn. Powered by a Random Forest regression model, it displays each customer's churn risk alongside key details like their profile and service usage—enabling the business to take proactive steps before it's too late.
 
+**Visual Used and Key Takeways**
+
+ **Combo Chart (Line and Stacked Column): Total Customers and Churn Rate by Tenure Group**  
+ *Insight:* The **35–50** age group had the highest number of customers at **128**, accounting for **33.60%** of the total — a **966.67%** increase compared to the **<20** group, which had the lowest count at just **12**.  
+  *Insight:* Customer count across all five age groups ranged from **12 to 128**, showing notable concentration in middle-aged segments.
 
 ![Dashboard Predictions](https://github.com/user-attachments/assets/cacbc646-04a2-4ca3-bcce-3a9b7877a4a7)
 
