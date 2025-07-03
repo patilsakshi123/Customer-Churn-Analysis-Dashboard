@@ -134,7 +134,7 @@ The Summary Dashboard focuses on making insights easy to understand. By using Po
 ## 👤 Author
 
 **Developed by:** SAKSHI PATIL  
-📧 sakshipandit0909@gmail.com
+📧  sakshipatil.nine@gmail.com
 
 ---
 
